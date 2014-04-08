@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<Menus>
+  <Menu>
+    <MenuID>1</MenuID>
+    <MenuName>秋冬新款</MenuName>
+  </Menu>
+  <Menu>
+    <MenuID>2</MenuID>
+    <MenuName>打折促销</MenuName>
+  </Menu>
+</Menus>

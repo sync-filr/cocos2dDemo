@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<News>
+  <New>
+    <ID>1</ID>
+    <Title>测试页面一</Title>
+    <Img>Upload/1.jpg</Img>
+    <Content>测试一下</Content>
+  </New>
+  <New>
+    <ID>2</ID>
+    <Title>测试页面2</Title>
+    <Img>Upload/2.jpg</Img>
+    <Content>测试一下</Content>
+  </New>
+  <New>
+    <ID>3</ID>
+    <Title>测试页面2</Title>
+    <Img>Upload/3.jpg</Img>
+    <Content>测试一下</Content>
+  </New>
+</News>

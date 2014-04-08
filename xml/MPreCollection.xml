@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<Menus>
+  <Menu>
+    <MenuID>3</MenuID>
+    <MenuName>秋冬新款1</MenuName>
+  </Menu>
+  <Menu>
+    <MenuID>4</MenuID>
+    <MenuName>打折促销2</MenuName>
+  </Menu>
+  <Menu>
+    <MenuID>5</MenuID>
+    <MenuName>打折促销2</MenuName>
+  </Menu>
+  <Menu>
+    <MenuID>6</MenuID>
+    <MenuName>打折促销2</MenuName>
+  </Menu>
+<Menu>
+    <MenuID>7</MenuID>
+    <MenuName>打折促销2</MenuName>
+  </Menu>
+<Menu>
+    <MenuID>8</MenuID>
+    <MenuName>打折促销2</MenuName>
+  </Menu>
+<Menu>
+    <MenuID>9</MenuID>
+    <MenuName>打折促销2</MenuName>
+  </Menu>
+<Menu>
+    <MenuID>10</MenuID>
+    <MenuName>打折促销2</MenuName>
+  </Menu>
+</Menus>
